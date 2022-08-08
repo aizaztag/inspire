@@ -1,0 +1,20 @@
+{
+    "name": "aizaz/inspire",
+    "autoload": {
+        "psr-4": {
+            "Aizaz\\Inspire\\": "src/"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "aizaz aziz",
+            "email": "aizaz.azzi@yahoo.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "illuminate/support": "8.40.0",
+        "illuminate/http": "8.40.0"
+    }
+}
